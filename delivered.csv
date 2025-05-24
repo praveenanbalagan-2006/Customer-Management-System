@@ -1,0 +1,4 @@
+name,customer_id,address,product_id,order,order_date,total_amount,advance_paid,priority_flag
+praveen,1,kavettipatti,1,sofa,2025-05-22,12345.0,1234.0,0
+2025-05-28,dhanam,4,bodhupatti,357984126,4,curtains,87654.0,4567.0,0
+2025-05-22,praveen,1,vallipuram,963852741,1,sofa,12345.0,1234.0,1
