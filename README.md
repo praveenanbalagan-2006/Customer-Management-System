@@ -1,4 +1,4 @@
-# Customer Delivery Plan using Data Structures
+# Customer Delivery Plan 
 
 A Python desktop application (Tkinter-based) that manages customer orders and vendor deliveries using structured CSV data and simple data structures like queues and "priority sorting". The app includes login authentication and generates a "Today's Plan" view for dispatch-ready orders.
 
